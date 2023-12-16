@@ -29,9 +29,9 @@ bio: I am a first year master student in Computer Science at Johns Hopkins Unive
 
 # Interests to show in About widget
 interests:
+  - Computer Vision
   - Computer Graphics
-  - (Differentible) Rendering
-  - Geometry Processing
+  - (Differentible) Rendering & Geometry Processing
   - Machine Learning
 
 # Education to show in About widget
