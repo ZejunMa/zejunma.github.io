@@ -13,11 +13,11 @@ image:
   caption: Video Captured in Project Visulization
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
 
 url_code: 'https://github.com/ZejunMa/Simulation-mass-spring-1d'
 url_pdf: 'https://github.com/ZejunMa/Simulation-mass-spring-1d'
