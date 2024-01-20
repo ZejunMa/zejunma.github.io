@@ -3,7 +3,7 @@ title: Physics-based Simulations
 summary: A project that implements spring-mass systems, rigid bodies, Finite Element Method in elasto-dynamics and cloth simulation, fluid simulation.
 
 tags:
-  - Other
+  - Computer Graphics
 date: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
