@@ -51,10 +51,6 @@ sections:
 
   # ---------------------------------------------- rendered block 3 ---------------------------------------------- 
   # rendered block 3: experiences
-
-  # ---------------------------------------------- rendered block 4 ---------------------------------------------- 
-  # rendered block 4: cool projects
-
   - block: experience
     content:
       title: Experience
@@ -106,6 +102,10 @@ sections:
 
     design:
       columns: '2'
+  # ---------------------------------------------- rendered block 4 ---------------------------------------------- 
+  # rendered block 4: cool projects
+
+
   
   - block: collection
     id: posts
