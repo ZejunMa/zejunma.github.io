@@ -42,7 +42,7 @@ education:
       year: 2023 - Present
     - course: BSc in Computer Science
       institution: South China University of Technology
-      year: 2018 -2022
+      year: 2018 - 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
