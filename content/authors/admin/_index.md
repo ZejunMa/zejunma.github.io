@@ -25,10 +25,10 @@ organizations:
     url: https://aiem.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year master student in Computer Science at Johns Hopkins University. I received his Bachelor’s degree in Computer Science from South China University of Technology, where I worked on deep generative models and computer vision. My current research focuses on 3D reconstruction.
+I am a first year master student in Computer Science at Johns Hopkins University. I received his Bachelor’s degree in Computer Science from South China University of Technology, where I worked on deep generative models and computer vision. My current research focuses on 3D reconstruction.
 
 # Interests to show in About widget
-interests:
+research interests:
   - 3D Scene Understanding, Reconstrcution and Generation
   - Physics-based Animation
   - Geometry Processing
