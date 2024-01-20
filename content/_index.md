@@ -77,6 +77,7 @@ sections:
   # ---------------------------------------------- rendered block 3 ---------------------------------------------- 
   # rendered block 3: experiences
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
