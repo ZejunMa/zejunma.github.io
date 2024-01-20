@@ -1,8 +1,8 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Image Processing Toolkit
+summary: An Image Processing Toolkit implemented in C++.
 tags:
-  - Deep Learning
+  - Computer Graphics
 date: "2024-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
