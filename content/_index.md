@@ -132,14 +132,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+
   - block: collection
     id: featured
     content:
@@ -201,6 +194,8 @@ sections:
     design:
       columns: '2'
   
+  
+  # ---------------------------------------------- 1 ---------------------------------------------- 
   # block for accomplishments
   # - block: accomplishments
   #   content:
@@ -244,7 +239,10 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  #   block for skills
+  
+  
+  # ---------------------------------------------- 2 ---------------------------------------------- 
+  # block for skills
   # - block: skills
   #   content:
   #     title: Skills
@@ -253,4 +251,17 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
+  
+  # ---------------------------------------------- 3 ---------------------------------------------- 
+  # block for Gallary
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+
+
 ---
