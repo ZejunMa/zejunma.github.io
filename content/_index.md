@@ -98,7 +98,7 @@ sections:
           company: Chinese Academy of Sciences
           company_url: 'https://english.cas.cn/'
           # company_url: 'http://english.imr.cas.cn/#'
-          company_logo: org-x
+          company_logo: CAS
           location: ShenYang, LiaoNing
           date_start: '2021-01-01'
           date_end: '2021-12-31'
