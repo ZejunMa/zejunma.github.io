@@ -36,12 +36,24 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+  
+  # ---------------------------------------------- rendered block 1 ---------------------------------------------- 
+  # rendered block 1: biography
   - block: about.biography
     id: about
     content:
       title:  
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  # ---------------------------------------------- rendered block 2 ---------------------------------------------- 
+  # rendered block 2: publications
+
+  # ---------------------------------------------- rendered block 3 ---------------------------------------------- 
+  # rendered block 3: experiences
+
+  # ---------------------------------------------- rendered block 4 ---------------------------------------------- 
+  # rendered block 4: cool projects
 
   - block: experience
     content:
@@ -55,29 +67,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Research Assistant
+          company: AIEM, Johns Hopkins University
+          company_url: 'https://aiem.jhu.edu/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+          location: Baltimore, Maryland
+          date_start: '2023-09-21'
+          date_end: '2023-12-20'
+          description: Worked on jointly optimizing gaussian splatting scene and camera poses
+        
+        - title: Research Intern
+          company: Singapore Management University
+          company_url: 'http://www.shengfenghe.com/group/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Singapore
+          date_start: '2023-01-01'
+          date_end: '2023-08-31'
+          description: Conducted Research on 4d Human Pose Estimation.
+
+        - title: Research Assistant
+          company: South China University of Technology
+          company_url: 'http://www.shengfenghe.com/group/'
+          company_logo: org-x
+          location: Guangzhou, Guangdong
+          date_start: '2022-12-31'
+          date_end: '2022-5-01'
+          description: Conducted Research on Animation Video Interpolation and Generative Graphics.
+
+        - title: Research Intern
+          company: Chinese Academy of Sciences
+          company_url: 'https://english.cas.cn/'
+          # company_url: 'http://english.imr.cas.cn/#'
+          company_logo: org-x
+          location: ShenYang, LiaoNing
+          date_start: '2021-01-01'
+          date_end: '2021-12-31'
+          description: Conducted Research on Numerical Analysis, Computational Physics&Material Science.
+
     design:
       columns: '2'
+  
   - block: collection
     id: posts
     content:
