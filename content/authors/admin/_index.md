@@ -49,15 +49,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/zejunma/
-    # label: Follow me on Twitter
-    # display:
-    #   header: true
+  - icon: twitter
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zejunma/
+    label: Follow me on Twitter
+    display:
+      header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -73,9 +70,12 @@ social:
   # - icon: cv
   #   icon_pack: ai
   #   link: uploads/resume.pdf
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a first year master student in Computer Science at Johns Hopkins University. I received his Bachelor’s degree in Computer Science from South China University of Technology, where I worked on deep generative models and computer vision. My current research focuses on 3D reconstruction.
+I am a first year master student in Computer Science at Johns Hopkins University. I received my Bachelor’s degree in Computer Science from South China University of Technology, where I was advised by [Professor Shengfeng He](http://www.shengfenghe.com/). 
