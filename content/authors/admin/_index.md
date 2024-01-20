@@ -66,13 +66,13 @@ social:
     link: https://www.linkedin.com/in/zejun-ma-a78342254/
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+# and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
