@@ -77,7 +77,7 @@ sections:
           description: Worked on jointly optimizing gaussian splatting scene and camera poses
         
         - title: Research Intern
-          company: Singapore Management University
+          company: Visual Understanding and Generation Lab, Singapore Management University
           company_url: 'http://www.shengfenghe.com/group/'
           company_logo: smu
           location: Singapore
@@ -86,7 +86,7 @@ sections:
           description: Conducted Research on 4d Human Pose Estimation.
 
         - title: Research Assistant
-          company: South China University of Technology
+          company: Computer Vision Lab, South China University of Technology
           company_url: 'http://www.shengfenghe.com/group/'
           company_logo: scut
           location: Guangzhou, Guangdong
@@ -95,7 +95,7 @@ sections:
           description: Conducted Research on Animation Video Interpolation and Generative Graphics.
 
         - title: Research Intern
-          company: Chinese Academy of Sciences
+          company: Insitute of Metal Research, Chinese Academy of Sciences
           company_url: 'https://english.cas.cn/'
           # company_url: 'http://english.imr.cas.cn/#'
           company_logo: CAS
