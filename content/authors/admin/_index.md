@@ -25,7 +25,7 @@ organizations:
     url: https://aiem.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year master student in Computer Science at Johns Hopkins University. I received my Bachelor’s degree in Computer Science from South China University of Technology, where I was advised by [Professor Shengfeng He](http://www.shengfenghe.com/). # My current research focuses on 3D reconstruction.
+bio: I am a first year master student in Computer Science at Johns Hopkins University. I received my Bachelor’s degree in Computer Science from South China University of Technology, where I was advised by [Professor Shengfeng He](http://www.shengfenghe.com/). 
 
 # Interests to show in About widget
 interests:
