@@ -241,7 +241,7 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 3400 Charles St
+        street: 3400 N. Charles Street
         city: Baltimore
         region: MD
         postcode: '21218'
@@ -253,8 +253,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '39.3268087'
-        longitude: '76.6227334'  
+        latitude: '39.328888'
+        longitude: '-76.6227334'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
