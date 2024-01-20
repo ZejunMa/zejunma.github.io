@@ -91,7 +91,7 @@ sections:
           company_logo: org-x
           location: Guangzhou, Guangdong
           date_start: '2022-12-31'
-          date_end: '2022-5-01'
+          date_end: '2022-05-01'
           description: Conducted Research on Animation Video Interpolation and Generative Graphics.
 
         - title: Research Intern
