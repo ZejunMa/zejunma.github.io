@@ -18,10 +18,19 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+
+url_code: 'https://github.com/ZejunMa/Simulation-mass-spring-1d'
+url_pdf: 'https://github.com/ZejunMa/Simulation-mass-spring-1d'
+# url_slides: ''
+# url_video: ''
+
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
