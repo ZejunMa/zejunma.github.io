@@ -105,7 +105,7 @@ sections:
           location: Singapore
           date_start: '2023-01-01'
           date_end: '2023-08-31'
-          description: Conducted Research on 4d Human Pose Estimation.
+          description: Conducted Research on 4d Human Pose Estimation and Neural Radiance Fields.
 
         - title: Research Assistant
           company: Computer Vision Lab, South China University of Technology
@@ -114,14 +114,14 @@ sections:
           location: Guangzhou, Guangdong
           date_start: '2022-12-31'
           date_end: '2022-05-01'
-          description: Conducted Research on Animation Video Interpolation and Generative Graphics.
+          description: Conducted Research on Generative Graphics.
 
         - title: Research Intern
           company: Insitute of Metal Research, Chinese Academy of Sciences
           company_url: 'https://english.cas.cn/'
           # company_url: 'http://english.imr.cas.cn/#'
           company_logo: CAS
-          location: ShenYang, LiaoNing
+          location: Shenyang, Liaoning
           date_start: '2021-01-01'
           date_end: '2021-12-31'
           description: Conducted Research on Numerical Analysis, Computational Physics&Material Science.
