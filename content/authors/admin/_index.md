@@ -51,7 +51,7 @@ education:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/zejunma/
+    link: https://www.linkedin.com/in/zejun-ma-a78342254/
     label: Follow me on Twitter
     display:
       header: true
