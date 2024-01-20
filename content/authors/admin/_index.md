@@ -40,7 +40,7 @@ education:
     - course: M.S.E in Computer Science
       institution: Johns Hopkins University
       year: 2023 - Present
-    - course: BSc in Computer Science
+    - course: B.E. in Computer Science
       institution: South China University of Technology
       year: 2018 - 2022
 
