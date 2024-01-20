@@ -118,6 +118,4 @@ social:
 highlight_name: true
 ---
 
-I am a first year master student in Computer Science at Johns Hopkins University. He received his Bachelor’s degree in Computer Science from South China University of Technology, where I worked on deep generative models and computer vision. My current research focuses on 3D reconstruction.
-
-Outside of research, I enjoy xxx. I am a member of xxx.
+I am a first year master student in Computer Science at Johns Hopkins University. I received his Bachelor’s degree in Computer Science from South China University of Technology, where I worked on deep generative models and computer vision. My current research focuses on 3D reconstruction.
