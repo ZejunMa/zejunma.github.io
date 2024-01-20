@@ -70,7 +70,7 @@ sections:
         - title: Research Assistant
           company: AIEM, Johns Hopkins University
           company_url: 'https://aiem.jhu.edu/'
-          company_logo: org-gc
+          company_logo: jhu
           location: Baltimore, Maryland
           date_start: '2023-09-21'
           date_end: '2023-12-20'
@@ -79,7 +79,7 @@ sections:
         - title: Research Intern
           company: Singapore Management University
           company_url: 'http://www.shengfenghe.com/group/'
-          company_logo: org-x
+          company_logo: smu
           location: Singapore
           date_start: '2023-01-01'
           date_end: '2023-08-31'
@@ -88,7 +88,7 @@ sections:
         - title: Research Assistant
           company: South China University of Technology
           company_url: 'http://www.shengfenghe.com/group/'
-          company_logo: org-x
+          company_logo: scut
           location: Guangzhou, Guangdong
           date_start: '2022-12-31'
           date_end: '2022-05-01'
